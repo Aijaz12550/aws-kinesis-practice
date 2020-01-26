@@ -4,7 +4,7 @@ service: aijaz-practice-kinesis
 provider:
   name: aws
   runtime: nodejs12.x
-  role: arn:aws:iam::611740472157:role/Aijaz_sahab
+  role: 
 
 functions:
   addTodo:
